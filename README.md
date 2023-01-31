@@ -1,6 +1,6 @@
 # guessThePhrase
 - Select the Phrase you want to guess.
-- Limited attempts provided.(If guessed the phrase/word right, you win. Else, you loose)
+- Limited attempts provided. (guessed the phrase/word right,win. Else, loose)
 
 
 ### Run the program using makefile
