@@ -1,0 +1,2 @@
+/* Diwas Sapkota 1001900767 */
+char *PhraseBank[] = {"Hello", "How are you?", "I live in Euless", "We're done", "(Do you) have any plan", ""};
